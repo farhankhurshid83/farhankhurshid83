@@ -13,7 +13,6 @@ Hi, I'm **Farhan Khurshid** — a Flutter developer from Pakistan 🇵🇰 build
 - 🔭 Currently building **NewsEditor AI** — an AI-powered Urdu broadcast news video generator (templates, TTS narration, hardware-accelerated export)
 - 🎮 Creator of **Word Circle Puzzle** — an endless word game with a 500-level curated pack and procedural generation
 - 🔐 Working on **Instaliio** — an EMI device-locking system (Flutter Windows provisioner + Android device-owner setup app)
-- 🎙️ I also run **Saut Al Jannah**, a YouTube channel for Urdu/Arabic nasheeds
 - 🌱 Always learning: app architecture, video rendering pipelines, and AI integrations
 
 ## 🛠️ Tech Stack
